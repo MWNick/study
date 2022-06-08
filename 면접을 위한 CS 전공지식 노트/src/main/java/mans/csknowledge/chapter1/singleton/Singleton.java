@@ -1,4 +1,4 @@
-package mans.csknowledge.chapter1;
+package mans.csknowledge.chapter1.singleton;
 
 public class Singleton {
     private static class singleInstanceHolder{

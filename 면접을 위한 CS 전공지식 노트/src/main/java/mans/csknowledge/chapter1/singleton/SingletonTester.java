@@ -1,4 +1,4 @@
-package mans.csknowledge.chapter1;
+package mans.csknowledge.chapter1.singleton;
 
 public class SingletonTester {
     public static void main(String[] args) {
@@ -13,3 +13,4 @@ public class SingletonTester {
         }
     }
 }
+//https://jeong-pro.tistory.com/86
